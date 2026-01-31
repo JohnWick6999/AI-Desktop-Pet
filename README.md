@@ -6,3 +6,5 @@
 3. <https://tongyi.aliyun.com/>
 4. <https://kimi.moonshot.cn/>
 5. <https://www.minimaxi.com/>
+6. <https://www.modelscope.cn/>
+7. <https://huggingface.co/>
